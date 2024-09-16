@@ -131,6 +131,8 @@ env.bak/
 venv.bak/
 cptvenv/
 .cptvenv
+cpt-venv/
+.cpt-venv
 
 # Spyder project settings
 .spyderproject

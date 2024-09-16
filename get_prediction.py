@@ -27,6 +27,7 @@ def prep_dfs(input_file: str, country: str, type: str) -> list:
 
     emission_df = pd.read_csv(filepath)
     emission_df['Year'] = pd.to_datetime(emission_df['Year'], format='%Y')
+    print(emission_df)
 
     if region_or_city == 'City':
         emission_df = emission_df.drop('Region', axis=1)

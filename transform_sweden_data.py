@@ -60,13 +60,13 @@ def _transform_regions():
 
 def data_to_csv(data1: pd.DataFrame, data2: pd.DataFrame) -> None:
     #Saving cities
-    filename1 = 'sweden_cities_emissions.csv'
+    filename1 = 'sweden_regions_emissions.csv'
     folder1 = 'transformed_sweden_data'
     filepath1 = fh.get_path_of_file(folder1, filename1)
     data1.to_csv(filepath1, index=False)
 
     #Saving regions
-    filename2 = 'sweden_regions_emissions.csv'
+    filename2 = 'sweden_cities_emissions.csv'
     folder2 = 'transformed_sweden_data'
     filepath2 = fh.get_path_of_file(folder2, filename2)
     data2.to_csv(filepath2, index=False)
