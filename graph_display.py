@@ -178,7 +178,7 @@ def tree_rec(df, input_value, fig):
         marker_color='#8eb892'  # 5d8e62
     ))
     fig.update_layout(
-        title=f'Tree Amount Needed to Offset Emissions Predicted for 2025 by Species for {
+        title=f'Tree Amount Needed to Offset Emissions for Predicted Year by Species for {
             str(input_value.capitalize())}',
         font=dict(
                     family='Open Sans, verdana, arial, sans-serif',

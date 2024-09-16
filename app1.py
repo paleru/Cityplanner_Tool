@@ -195,7 +195,7 @@ def main():
         # default: show
         return {'display': 'flex', 'justify-content': 'center', 'align-items': 'center', 'margin': '20px', 'width': '100%'}
 
-    ##### ALWAYS HIDES SLIDER ####
+
     @app.callback(
         Output('slider-container', 'style'),
         [Input('submit-button', 'n_clicks')],
@@ -204,8 +204,8 @@ def main():
     def toggle_slider_visibility(n_clicks, input_value):
 
         if input_value:
-            return {'display': 'none'}
-            #return {'display': 'block', 'width': '80%', 'marginLeft': '10%'}
+            #return {'display': 'none'} ALWAYS HIDES SLIDER
+            return {'display': 'block', 'width': '50%', 'marginLeft': '25%', 'marginRight': '25%', 'marginBottom': '3%'}
 
         return {'display': 'none'}
 
