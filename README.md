@@ -19,7 +19,7 @@ Steps to use dash app - run files in this order:
 ## TODO:
 
 - [ ] Slider year should be displayed in graph title
-- [ ] Include current tree carbon storage as stacks in recommendation bar graph. Possible [data source](https://www.globalforestwatch.org/dashboards/country/SWE/1/?category=climate&map=eyJjYW5Cb3VuZCI6dHJ1ZX0%3D)
+- [ ] Include current tree carbon storage as stacks in recommendation bar graph. [Possible data source](https://www.globalforestwatch.org/dashboards/country/SWE/1/?category=climate&map=eyJjYW5Cb3VuZCI6dHJ1ZX0%3D)
 - [ ] Checkbox for tree types ()
 - [ ] Improve styling
   - [ ] Implement dash bootstrap components (dbc)
