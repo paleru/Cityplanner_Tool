@@ -1,0 +1,291 @@
+region_id,city_id,region_name,city_name,net_forest_emissions_01_to_23
+1,1,Blekinge,Karlshamn,-2170270.798418917
+1,2,Blekinge,Karlskrona,-4056155.568495996
+1,3,Blekinge,Olofström,-1466205.5839554598
+1,4,Blekinge,Ronneby,-2604945.287358672
+1,5,Blekinge,Sölvesborg,-693988.5846910443
+2,1,Dalarna,Älvdalen,-27436198.44390098
+2,2,Dalarna,Avesta,-1088325.6759375741
+2,3,Dalarna,Borlänge,-1863810.2466155244
+2,4,Dalarna,Falun,-5731471.97331435
+2,5,Dalarna,Gagnef,-1849016.4195514454
+2,6,Dalarna,Hedemora,-685908.5747675046
+2,7,Dalarna,Leksand,-3839503.6245715762
+2,8,Dalarna,Ludvika,-5336697.824116204
+2,9,Dalarna,Malung,-19994700.960988205
+2,10,Dalarna,Mora,-10549221.091705207
+2,11,Dalarna,Orsa,-7989441.166062223
+2,12,Dalarna,Rättvik,-4615152.562990387
+2,13,Dalarna,Säter,-1243742.2076223274
+2,14,Dalarna,Smedjebacken,-2630508.315843037
+2,15,Dalarna,Vansbro,-6572249.810664504
+3,1,Gävleborg,Bollnäs,-3600800.0132164233
+3,2,Gävleborg,Gävle,-5013335.594952759
+3,3,Gävleborg,Hofors,-1090400.6686374354
+3,4,Gävleborg,Hudiksvall,-9868076.954468898
+3,5,Gävleborg,Ljusdal,-7712122.330106405
+3,6,Gävleborg,Nordanstig,-6421065.968746403
+3,7,Gävleborg,Ockelbo,-1390007.4204730217
+3,8,Gävleborg,Ovanåker,-2655120.788640608
+3,9,Gävleborg,Sandviken,-2632824.319919969
+3,10,Gävleborg,Söderhamn,-1574359.4120555848
+4,1,Gotland,Gotland,-11011180.21321527
+5,1,Halland,Falkenberg,-3287279.0399453733
+5,2,Halland,Halmstad,-3329068.8048576326
+5,3,Halland,Hylte,-4393763.917384807
+5,4,Halland,Kungsbacka,-2958575.459495313
+5,5,Halland,Laholm,-3365731.072463902
+5,6,Halland,Varberg,-3420449.7475165026
+6,1,Jämtland,Åre,-34336026.80893912
+6,2,Jämtland,Berg,-21278012.340208277
+6,3,Jämtland,Bräcke,-18813872.05720555
+6,4,Jämtland,Härjedalen,-38926355.09660773
+6,5,Jämtland,Krokom,-36016805.76510501
+6,6,Jämtland,Östersund,-11516708.56996842
+6,7,Jämtland,Ragunda,-10047820.19053862
+6,8,Jämtland,Strömsund,-56860985.44069293
+7,1,Jönköping,Aneby,-2653922.766534866
+7,2,Jönköping,Eksjö,-2876226.528379542
+7,3,Jönköping,Gislaved,-4562454.063633996
+7,4,Jönköping,Gnosjö,-1709365.6949899436
+7,5,Jönköping,Jönköping,-6597970.176841305
+7,6,Jönköping,Nässjö,-5378878.600717375
+7,7,Jönköping,Sävsjö,-2734052.0851186886
+7,8,Jönköping,Tranås,-1660815.5527144554
+7,9,Jönköping,Vaggeryd,-3268439.574711622
+7,10,Jönköping,Värnamo,-4048778.173259845
+7,11,Jönköping,Vetlanda,-6013292.9680053415
+8,1,Kalmar,Borgholm,-2289853.8665414755
+8,2,Kalmar,Emmaboda,-2242808.7959420956
+8,3,Kalmar,Högsby,-2805562.9723717165
+8,4,Kalmar,Hultsfred,-2722480.2280401876
+8,5,Kalmar,Kalmar,-1363643.4412164653
+8,6,Kalmar,Mönsterås,-744737.5704699724
+8,7,Kalmar,Mörbylånga,-1126505.6334766138
+8,8,Kalmar,Nybro,-3910747.422690085
+8,9,Kalmar,Oskarshamn,-2992191.1584341587
+8,10,Kalmar,Torsås,-376966.68291220866
+8,11,Kalmar,Västervik,-7376441.548355102
+8,12,Kalmar,Vimmerby,-2272834.0796409426
+9,1,Kronoberg,Älmhult,-2683661.712821604
+9,2,Kronoberg,Alvesta,-2229046.881843209
+9,3,Kronoberg,Lessebo,-1228486.594618671
+9,4,Kronoberg,Ljungby,-5123745.376396925
+9,5,Kronoberg,Markaryd,-2454059.6018770467
+9,6,Kronoberg,Tingsryd,-2306826.783579754
+9,7,Kronoberg,Uppvidinge,-3875663.7492673374
+9,8,Kronoberg,Växjö,-3609689.7623191215
+10,1,Norrbotten,Älvsbyn,-6906181.827248363
+10,2,Norrbotten,Arjeplog,-56531002.36498528
+10,3,Norrbotten,Arvidsjaur,-34932900.03409063
+10,4,Norrbotten,Boden,-23398922.84474889
+10,5,Norrbotten,Gällivare,-84746629.34738992
+10,6,Norrbotten,Haparanda,-6179359.787038382
+10,7,Norrbotten,Jokkmokk,-79699736.76028876
+10,8,Norrbotten,Kalix,-9983617.613043172
+10,9,Norrbotten,Kiruna,-65091707.675368994
+10,10,Norrbotten,Luleå,-11995944.208902847
+10,11,Norrbotten,Överkalix,-15067611.020393185
+10,12,Norrbotten,Övertorneå,-15382038.64556059
+10,13,Norrbotten,Pajala,-47598602.179152705
+10,14,Norrbotten,Piteå,-13213487.95082929
+11,1,Orebro,Askersund,-1219918.4563886337
+11,2,Orebro,Degerfors,-1714948.9811852954
+11,3,Orebro,Hällefors,-3675320.9693487617
+11,4,Orebro,Hallsberg,-1371720.4479826724
+11,5,Orebro,Karlskoga,-2588669.5562934573
+11,6,Orebro,Kumla,-478510.81358348497
+11,7,Orebro,Laxå,-2421825.404329926
+11,8,Orebro,Lekeberg,-1938653.452852333
+11,9,Orebro,Lindesberg,-914499.3821631927
+11,10,Orebro,Ljusnarsberg,-1385525.6217402555
+11,11,Orebro,Nora,-3719527.612746562
+11,12,Orebro,Örebro,-3898729.0600953014
+12,1,Östergötland,Åtvidaberg,-1492009.6272904035
+12,2,Östergötland,Boxholm,-1839914.8569953202
+12,3,Östergötland,Finspång,-2113617.025479386
+12,4,Östergötland,Kinda,-5427394.905657857
+12,5,Östergötland,Linköping,-2958182.642814099
+12,6,Östergötland,Mjölby,-789768.0160661153
+12,7,Östergötland,Motala,-1274705.7863623311
+12,8,Östergötland,Norrköping,-4222125.1058255285
+12,9,Östergötland,Ödeshög,-1527187.9234139582
+12,10,Östergötland,Söderköping,-3420353.2073361194
+12,11,Östergötland,Vadstena,-227685.93530391427
+12,12,Östergötland,Valdemarsvik,-3430203.85263059
+12,13,Östergötland,Ydre,-2860830.6537276264
+13,1,Skåne,Ängelholm,-669963.7093697091
+13,2,Skåne,Åstorp,-99365.9270806625
+13,3,Skåne,Båstad,-1434020.5709376074
+13,4,Skåne,Bjuv,-175610.06736626392
+13,5,Skåne,Bromölla,-712854.4550352603
+13,6,Skåne,Burlöv,-9173.481723080677
+13,7,Skåne,Eslöv,-831796.737750461
+13,8,Skåne,Hässleholm,-4465077.1209268
+13,9,Skåne,Helsingborg,-446686.34602562094
+13,10,Skåne,Höganäs,-251884.6269593967
+13,11,Skåne,Höör,-2056463.7274831468
+13,12,Skåne,Hörby,-2087237.3077955537
+13,13,Skåne,Kävlinge,-200844.3747976662
+13,14,Skåne,Klippan,-1319086.1136455117
+13,15,Skåne,Kristianstad,-4477055.154221937
+13,16,Skåne,Landskrona,-175388.16854512386
+13,17,Skåne,Lomma,-45222.71183833458
+13,18,Skåne,Lund,-1129926.6966297678
+13,19,Skåne,Malmö,-79998.74917291201
+13,20,Skåne,Örkelljunga,-727445.3677485025
+13,21,Skåne,Osby,-1617594.0294221377
+13,22,Skåne,Östra Göinge,-968847.5266436475
+13,23,Skåne,Perstorp,-531693.7193706265
+13,24,Skåne,Simrishamn,-958908.6793367836
+13,25,Skåne,Sjöbo,-1302581.1254880375
+13,26,Skåne,Skurup,-153844.75296880308
+13,27,Skåne,Staffanstorp,-25580.11229336862
+13,28,Skåne,Svalöv,-1763586.1305987667
+13,29,Skåne,Svedala,-405626.09316190385
+13,30,Skåne,Tomelilla,-1066525.6695160447
+13,31,Skåne,Trelleborg,-84030.76947591039
+13,32,Skåne,Vellinge,-148703.39464263406
+13,33,Skåne,Ystad,-425728.85288514313
+14,1,Södermanland,Eskilstuna,-553838.0378093903
+14,2,Södermanland,Flen,-549211.6873982344
+14,3,Södermanland,Gnesta,-877547.1463495542
+14,4,Södermanland,Katrineholm,-95825.5705301767
+14,5,Södermanland,Nyköping,-1926318.7912065985
+14,6,Södermanland,Oxelösund,-161871.29278215984
+14,7,Södermanland,Strängnäs,-1630778.4473936977
+14,8,Södermanland,Trosa,-998595.8696338054
+14,9,Södermanland,Vingåker,-485570.29633104644
+15,1,Stockholm,Botkyrka,-806333.9454314748
+15,2,Stockholm,Danderyd,-155842.15728129423
+15,3,Stockholm,Ekerö,-1092106.455899379
+15,4,Stockholm,Haninge,-3581776.359805391
+15,5,Stockholm,Huddinge,-1033292.052177645
+15,6,Stockholm,Järfälla,-224823.08139402623
+15,7,Stockholm,Lidingö,-220758.01965206125
+15,8,Stockholm,Nacka,-713660.93182644
+15,9,Stockholm,Norrtälje,-9606764.700782778
+15,10,Stockholm,Nykvarn,-186388.65753351577
+15,11,Stockholm,Nynäshamn,-2292406.877687679
+15,12,Stockholm,Österåker,-2294322.38336628
+15,13,Stockholm,Salem,-241224.1398879492
+15,14,Stockholm,Sigtuna,-587620.2861140431
+15,15,Stockholm,Södertälje,-2106524.2102041123
+15,16,Stockholm,Sollentuna,-255356.90350078492
+15,17,Stockholm,Solna,-76731.72482737339
+15,18,Stockholm,Stockholm,-692996.3555766843
+15,19,Stockholm,Sundbyberg,-18065.167117935085
+15,20,Stockholm,Täby,-241173.95828463673
+15,21,Stockholm,Tyresö,-716851.9535438614
+15,22,Stockholm,Upplands-Bro,-727352.5477402881
+15,23,Stockholm,Upplands-Väsby,-288450.5323456664
+15,24,Stockholm,Vallentuna,-1822856.0876130161
+15,25,Stockholm,Värmdö,-3493034.996644936
+15,26,Stockholm,Vaxholm,-412408.0007445227
+16,1,Uppsala,Älvkarleby,-412551.00823893177
+16,2,Uppsala,Enköping,-511744.05534913903
+16,3,Uppsala,Håbo,-248320.13255111757
+16,4,Uppsala,Knivsta,-266706.094485146
+16,5,Uppsala,Östhammar,-3749366.619088876
+16,6,Uppsala,Tierp,-5073729.429681538
+16,7,Uppsala,Uppsala,-3906020.9806110603
+17,1,Värmland,Årjäng,-7400944.496708208
+17,2,Värmland,Arvika,-8786155.825241469
+17,3,Värmland,Eda,-4698727.764326603
+17,4,Värmland,Filipstad,-3844366.2491582977
+17,5,Värmland,Forshaga,-938315.17354951
+17,6,Värmland,Grums,-1524816.422622341
+17,7,Värmland,Hagfors,-4652836.88700452
+17,8,Värmland,Hammarö,-334592.1484397302
+17,9,Värmland,Karlstad,-3373619.1797451954
+17,10,Värmland,Kil,-1270094.194873957
+17,11,Värmland,Kristinehamn,-2373807.8287006114
+17,12,Värmland,Munkfors,-431975.15967338067
+17,13,Värmland,Säffle,-6449652.318520281
+17,14,Värmland,Storfors,-910129.9093970751
+17,15,Värmland,Sunne,-3667618.7375671626
+17,16,Värmland,Torsby,-23740016.54925307
+18,1,Västerbotten,Åsele,-19010688.919233803
+18,2,Västerbotten,Bjurholm,-5539080.152160514
+18,3,Västerbotten,Dorotea,-18163451.13297302
+18,4,Västerbotten,Lycksele,-24681291.96223328
+18,5,Västerbotten,Malå,-9441633.445332266
+18,6,Västerbotten,Nordmaling,-7860077.4601643635
+18,7,Västerbotten,Norsjö,-7772156.557957582
+18,8,Västerbotten,Robertsfors,-4230684.3450250365
+18,9,Västerbotten,Skellefteå,-24615720.080452487
+18,10,Västerbotten,Sorsele,-41535711.87216789
+18,11,Västerbotten,Storuman,-40564419.37799344
+18,12,Västerbotten,Umeå,-7041716.727545455
+18,13,Västerbotten,Vännäs,-2290720.0785399643
+18,14,Västerbotten,Vilhelmina,-46065091.77693361
+18,15,Västerbotten,Vindeln,-8740191.595456762
+19,1,Västernorrland,Ånge,-9929024.472804228
+19,2,Västernorrland,Härnösand,-6710786.013396887
+19,3,Västernorrland,Kramfors,-9120811.315338863
+19,4,Västernorrland,Örnsköldsvik,-28681716.45719194
+19,5,Västernorrland,Sollefteå,-19476869.56223727
+19,6,Västernorrland,Sundsvall,-11464294.32446596
+19,7,Västernorrland,Timrå,-4489699.085564474
+20,1,Västmanland,Arboga,-510386.8465943495
+20,2,Västmanland,Fagersta,-745586.6480458076
+20,3,Västmanland,Hallstahammar,-60323.43386759614
+20,4,Västmanland,Heby,-1695736.6452341198
+20,5,Västmanland,Köping,-437560.7466514974
+20,6,Västmanland,Kungsör,-417793.04299628653
+20,7,Västmanland,Norberg,-1086065.6136873958
+20,8,Västmanland,Sala,244391.19657647412
+20,9,Västmanland,Skinnskatteberg,-463216.861549505
+20,10,Västmanland,Surahammar,-219772.7747552643
+20,11,Västmanland,Västerås,-80174.78680100797
+21,1,Västra Götaland,Ale,-2100152.114872492
+21,2,Västra Götaland,Alingsås,-2232055.7366219023
+21,3,Västra Götaland,Åmål,-2692194.5533603244
+21,4,Västra Götaland,Bengtsfors,-5651489.4999615215
+21,5,Västra Götaland,Bollebygd,-1434602.2181132575
+21,6,Västra Götaland,Borås,-5420052.801591547
+21,7,Västra Götaland,Dals-Ed,-4355381.753325593
+21,8,Västra Götaland,Essunga,-610985.313631193
+21,9,Västra Götaland,Falköping,-3413013.4062803597
+21,10,Västra Götaland,Färgelanda,-3046833.758389058
+21,11,Västra Götaland,Göteborg,-2875117.1088987067
+21,12,Västra Götaland,Götene,-1261544.7170130606
+21,13,Västra Götaland,Grästorp,-604806.6325213066
+21,14,Västra Götaland,Gullspång,-1099225.2498045983
+21,15,Västra Götaland,Habo,-1033803.9415462458
+21,16,Västra Götaland,Härryda,-1664850.8728135738
+21,17,Västra Götaland,Herrljunga,-1628598.5307505478
+21,18,Västra Götaland,Hjo,-889620.6739608088
+21,19,Västra Götaland,Karlsborg,-2060609.855272957
+21,20,Västra Götaland,Kungälv,-2355273.9417725625
+21,21,Västra Götaland,Lerum,-1884179.1399818158
+21,22,Västra Götaland,Lidköping,-1565937.4515132285
+21,23,Västra Götaland,Lilla Edet,-1742828.0993970376
+21,24,Västra Götaland,Lysekil,-1173324.4688846706
+21,25,Västra Götaland,Mariestad,-1927233.2418565222
+21,26,Västra Götaland,Mark,-4766246.505664225
+21,27,Västra Götaland,Mellerud,-1963719.96868138
+21,28,Västra Götaland,Mölndal,-1150566.3536681882
+21,29,Västra Götaland,Mullsjö,-547013.8017170004
+21,30,Västra Götaland,Munkedal,-3943911.4871119256
+21,31,Västra Götaland,Öckerö,-51597.33235052155
+21,32,Västra Götaland,Orust,-2591651.4567979337
+21,33,Västra Götaland,Partille,-600920.8090409401
+21,34,Västra Götaland,Skara,-1475895.0884847112
+21,35,Västra Götaland,Skövde,-2557345.764326906
+21,36,Västra Götaland,Sotenäs,-652919.8782441248
+21,37,Västra Götaland,Stenungsund,-1932644.8165477049
+21,38,Västra Götaland,Strömstad,-2380918.5172504378
+21,39,Västra Götaland,Svenljunga,-4539154.040194286
+21,40,Västra Götaland,Tanum,-5611172.626650826
+21,41,Västra Götaland,Tibro,-823846.7308757012
+21,42,Västra Götaland,Tidaholm,-801727.9048229195
+21,43,Västra Götaland,Tjörn,-966262.7435588312
+21,44,Västra Götaland,Töreboda,-1866807.7399767728
+21,45,Västra Götaland,Tranemo,-3518476.0923178336
+21,46,Västra Götaland,Trollhättan,-1646251.3011256345
+21,47,Västra Götaland,Uddevalla,-3876421.5332759963
+21,48,Västra Götaland,Ulricehamn,-5005118.491456594
+21,49,Västra Götaland,Vänersborg,-2897531.265009546
+21,50,Västra Götaland,Vara,-808066.9044631582
+21,51,Västra Götaland,Vårgårda,-1461510.0851336038
