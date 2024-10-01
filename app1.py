@@ -21,7 +21,6 @@ def main():
     # print(len(dfs))
     # fin_cities_df, fin_regions_df, fin_city_predictions, fin_region_predictions, swe_city_predictions, agriculture_fin_df, air_passenger_and_cargo_transport_fin_df, supplementary_data_fin_df, energy_consumption_and_population_fin_df, energy_agric_fin_df, transportation_fin_df, swe_cities_df, swe_regions_df, avg_co2_consumption_df, final_tree_info_df, partial_tree_info_df, = dfs
     fin_cities_df, fin_regions_df, agriculture_fin_df, air_passenger_and_cargo_transport_fin_df, supplementary_data_fin_df, energy_consumption_and_population_fin_df, energy_agric_fin_df, transportation_fin_df, swe_cities_df, swe_regions_df, avg_co2_consumption_df, final_tree_info_df, partial_tree_info_df, = dfs
-
     # Modify dfs
     final_tree_info_df.drop(columns=['Maintenance'], inplace=True)
     final_tree_info_df.rename(
@@ -29,7 +28,6 @@ def main():
 
     combine_list = [fin_cities_df, swe_cities_df]
     combined_cities_df = pd.concat(combine_list)
-    # print(combined_cities_df)
 
     # Define the layout and style of the app
     app_layout(final_tree_info_df, app)
