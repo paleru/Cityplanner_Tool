@@ -1,0 +1,22 @@
+region_id,city_id,region_name,city_name,net_forest_emissions_01_to_23
+1,1,Eastern Finland,North Karelia,-32723794.545435462
+1,2,Eastern Finland,North Savonia,-34145998.874047816
+1,3,Eastern Finland,Päijänne Tavastia,-3982958.1955882437
+1,4,Eastern Finland,Southern Savonia,-9429633.620671261
+2,1,Lapland,Lapland,-366051480.2626257
+3,1,Oulu,Kainuu,-71725962.00664432
+3,2,Oulu,Northern Ostrobothnia,-121328937.63774328
+4,1,Southern Finland,Eastern Uusimaa,-1657289.1074319049
+4,2,Southern Finland,Kymenlaakso,3290118.5940926033
+4,3,Southern Finland,Päijänne Tavastia,100730.69581044406
+4,4,Southern Finland,South Karelia,4684022.493832942
+4,5,Southern Finland,Uusimaa,-15830865.312688958
+5,1,Western Finland,Central Finland,-30194917.539680947
+5,2,Western Finland,Central Ostrobothnia,-14435709.641815707
+5,3,Western Finland,Finland Proper,-18777158.988456704
+5,4,Western Finland,Ostrobothnia,-17779184.37879001
+5,5,Western Finland,Päijänne Tavastia,-2478141.744229551
+5,6,Western Finland,Pirkanmaa,-19587925.996622875
+5,7,Western Finland,Satakunta,-15471054.097641822
+5,8,Western Finland,Southern Ostrobothnia,-25006226.8467009
+5,9,Western Finland,Tavastia Proper,-3364913.342422488

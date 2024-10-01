@@ -1,0 +1,291 @@
+,Region,City,Average Yearly Net Tree Emissions
+0,Blekinge,Karlshamn,-94359.59993125727
+1,Blekinge,Karlskrona,-176354.58993460852
+2,Blekinge,Olofstroem,-63748.06886762869
+3,Blekinge,Ronneby,-113258.49075472486
+4,Blekinge,Soelvesborg,-30173.416725697578
+5,Dalarna,Aelvdalen,-1192878.193213086
+6,Dalarna,Avesta,-47318.50764945974
+7,Dalarna,Borlaenge,-81035.22811371845
+8,Dalarna,Falun,-249194.43362236302
+9,Dalarna,Gagnef,-80392.01824136719
+10,Dalarna,Hedemora,-29822.111946413243
+11,Dalarna,Leksand,-166934.94019876418
+12,Dalarna,Ludvika,-232030.3401789654
+13,Dalarna,Malung,-869334.8243907915
+14,Dalarna,Mora,-458661.78659587866
+15,Dalarna,Orsa,-347367.00722009665
+16,Dalarna,Raettvik,-200658.80708653855
+17,Dalarna,Saeter,-54075.7481574925
+18,Dalarna,Smedjebacken,-114369.92677578422
+19,Dalarna,Vansbro,-285749.9917680219
+20,Gaevleborg,Bollnaes,-156556.52231375757
+21,Gaevleborg,Gaevle,-217971.112824033
+22,Gaevleborg,Hofors,-47408.72472336676
+23,Gaevleborg,Hudiksvall,-429046.8241073434
+24,Gaevleborg,Ljusdal,-335309.66652636544
+25,Gaevleborg,Nordanstig,-279176.7812498436
+26,Gaevleborg,Ockelbo,-60435.10523795746
+27,Gaevleborg,Ovanaaker,-115440.03428872209
+28,Gaevleborg,Sandviken,-114470.62260521603
+29,Gaevleborg,Soederhamn,-68450.40921980803
+30,Gotland,Gotland,-478746.9657919682
+31,Halland,Falkenberg,-142925.17564979885
+32,Halland,Halmstad,-144742.12195033184
+33,Halland,Hylte,-191033.21379933943
+34,Halland,Kungsbacka,-128633.715630231
+35,Halland,Laholm,-146336.13358538706
+36,Halland,Varberg,-148715.20641376099
+37,Jaemtland,Aare,-1492870.73082344
+38,Jaemtland,Berg,-925130.9713134036
+39,Jaemtland,Braecke,-817994.4372698065
+40,Jaemtland,Haerjedalen,-1692450.2215916405
+41,Jaemtland,Krokom,-1565948.0767436961
+42,Jaemtland,Oestersund,-500726.4595638443
+43,Jaemtland,Ragunda,-436861.74741472263
+44,Jaemtland,Stroemsund,-2472216.7582909972
+45,Joenkoeping,Aneby,-115387.94637108113
+46,Joenkoeping,Eksjoe,-125053.32732084964
+47,Joenkoeping,Gislaved,-198367.56798408678
+48,Joenkoeping,Gnosjoe,-74320.24760825842
+49,Joenkoeping,Joenkoeping,-286868.2685583176
+50,Joenkoeping,Naessjoe,-233864.28698771197
+51,Joenkoeping,Saevsjoe,-118871.82978776908
+52,Joenkoeping,Tranaas,-72209.37185715024
+53,Joenkoeping,Vaggeryd,-142106.0684657227
+54,Joenkoeping,Vaernamo,-176033.83361999327
+55,Joenkoeping,Vetlanda,-261447.52034805831
+56,Kalmar,Borgholm,-99558.86376267285
+57,Kalmar,Emmaboda,-97513.42591052591
+58,Kalmar,Hoegsby,-121980.99879877028
+59,Kalmar,Hultsfred,-118368.7055669647
+60,Kalmar,Kalmar,-59288.84527028109
+61,Kalmar,Moensteraas,-32379.894368259673
+62,Kalmar,Moerbylaanga,-48978.505803331034
+63,Kalmar,Nybro,-170032.49663869935
+64,Kalmar,Oskarshamn,-130095.2677580069
+65,Kalmar,Torsaas,-16389.855778791683
+66,Kalmar,Vaestervik,-320714.84992848267
+67,Kalmar,Vimmerby,-98818.87302786707
+68,Kronoberg,Aelmhult,-116680.94403572193
+69,Kronoberg,Alvesta,-96915.08181926995
+70,Kronoberg,Lessebo,-53412.4606355944
+71,Kronoberg,Ljungby,-222771.53810421415
+72,Kronoberg,Markaryd,-106698.2435598716
+73,Kronoberg,Tingsryd,-100296.81667738062
+74,Kronoberg,Uppvidinge,-168507.1195333625
+75,Kronoberg,Vaexjoe,-156943.03314430962
+76,Norrbotten,Aelvsbyn,-300268.7750977549
+77,Norrbotten,Arjeplog,-2457869.668042838
+78,Norrbotten,Arvidsjaur,-1518821.740612636
+79,Norrbotten,Boden,-1017344.4715108213
+80,Norrbotten,Gaellivare,-3684636.0585821704
+81,Norrbotten,Haparanda,-268667.81682775577
+82,Norrbotten,Jokkmokk,-3465205.9460995113
+83,Norrbotten,Kalix,-434070.331001877
+84,Norrbotten,Kiruna,-2830074.246755174
+85,Norrbotten,Luleaa,-521562.7916914282
+86,Norrbotten,Oeverkalix,-655113.5226257906
+87,Norrbotten,Oevertorneaa,-668784.288937417
+88,Norrbotten,Pajala,-2069504.442571857
+89,Norrbotten,Piteaa,-574499.4761230126
+90,Orebro,Askersund,-53039.93288646233
+91,Orebro,Degerfors,-74562.99918196937
+92,Orebro,Haellefors,-159796.56388472876
+93,Orebro,Hallsberg,-59640.01947750749
+94,Orebro,Karlskoga,-112550.85027362857
+95,Orebro,Kumla,-20804.81798189065
+96,Orebro,Laxaa,-105296.75670999677
+97,Orebro,Lekeberg,-84289.28055879708
+98,Orebro,Lindesberg,-39760.84270274751
+99,Orebro,Ljusnarsberg,-60240.24442348937
+100,Orebro,Nora,-161718.59185854616
+101,Orebro,Oerebro,-169509.9591345783
+102,Oestergoetland,Aatvidaberg,-64869.98379523494
+103,Oestergoetland,Boxholm,-79996.2981302313
+104,Oestergoetland,Finspaang,-91896.39241214722
+105,Oestergoetland,Kinda,-235973.6915503416
+106,Oestergoetland,Linkoeping,-128616.63664409125
+107,Oestergoetland,Mjoelby,-34337.73982896154
+108,Oestergoetland,Motala,-55421.9907114057
+109,Oestergoetland,Norrkoeping,-183570.65677502297
+110,Oestergoetland,Oedeshoeg,-66399.47493104167
+111,Oestergoetland,Soederkoeping,-148711.0090146139
+112,Oestergoetland,Vadstena,-9899.388491474534
+113,Oestergoetland,Valdemarsvik,-149139.29794046044
+114,Oestergoetland,Ydre,-124383.94146641855
+115,Skaane,Aengelholm,-29128.85692911779
+116,Skaane,Aastorp,-4320.257699159239
+117,Skaane,Baastad,-62348.72047554815
+118,Skaane,Bjuv,-7635.220320272344
+119,Skaane,Bromoella,-30993.671958054794
+120,Skaane,Burloev,-398.8470314382903
+121,Skaane,Esloev,-36165.07555436787
+122,Skaane,Haessleholm,-194133.78786638263
+123,Skaane,Helsingborg,-19421.145479374823
+124,Skaane,Hoeganaes,-10951.505519973769
+125,Skaane,Hoeoer,-89411.46641231074
+126,Skaane,Hoerby,-90749.44816502408
+127,Skaane,Kaevlinge,-8732.364121637662
+128,Skaane,Klippan,-57351.57015850051
+129,Skaane,Kristianstad,-194654.5719226929
+130,Skaane,Landskrona,-7625.572545440168
+131,Skaane,Lomma,-1966.204862536286
+132,Skaane,Lund,-49127.24767955512
+133,Skaane,Malmoe,-3478.206485778783
+134,Skaane,Oerkelljunga,-31628.0594673262
+135,Skaane,Osby,-70330.17519226685
+136,Skaane,Oestra goeinge,-42123.805506245546
+137,Skaane,Perstorp,-23117.1182335055
+138,Skaane,Simrishamn,-41691.681710294935
+139,Skaane,Sjoebo,-56633.96197774077
+140,Skaane,Skurup,-6688.902302991438
+141,Skaane,Staffanstorp,-1112.178795363853
+142,Skaane,Svaloev,-76677.65785212029
+143,Skaane,Svedala,-17635.91709399582
+144,Skaane,Tomelilla,-46370.6812833063
+145,Skaane,Trelleborg,-3653.51171634393
+146,Skaane,Vellinge,-6465.364984462351
+147,Skaane,Ystad,-18509.950125441006
+148,Soedermanland,Eskilstuna,-24079.9146873648
+149,Soedermanland,Flen,-23878.76901731454
+150,Soedermanland,Gnesta,-38154.22375432844
+151,Soedermanland,Katrineholm,-4166.329153485944
+152,Soedermanland,Nykoeping,-83752.99092202602
+153,Soedermanland,Oxeloesund,-7037.882294876515
+154,Soedermanland,Straengnaes,-70903.41075624773
+155,Soedermanland,Trosa,-43417.21172320893
+156,Soedermanland,Vingaaker,-21111.75201439332
+157,Stockholm,Botkyrka,-35057.99762745543
+158,Stockholm,Danderyd,-6775.745968751923
+159,Stockholm,Ekeroe,-47482.88938692952
+160,Stockholm,Haninge,-155729.4069480605
+161,Stockholm,Huddinge,-44925.74139902805
+162,Stockholm,Jaerfaella,-9774.916582348966
+163,Stockholm,Lidingoe,-9598.174767480925
+164,Stockholm,Nacka,-31028.736166366958
+165,Stockholm,Norrtaelje,-417685.42177316424
+166,Stockholm,Nykvarn,-8103.854675370251
+167,Stockholm,Nynaeshamn,-99669.8642472904
+168,Stockholm,Oesteraaker,-99753.14710288173
+169,Stockholm,Salem,-10488.006082084747
+170,Stockholm,Sigtuna,-25548.708091914916
+171,Stockholm,Soedertaelje,-91588.00913930923
+172,Stockholm,Sollentuna,-11102.474065251517
+173,Stockholm,Solna,-3336.1619490162343
+174,Stockholm,Stockholm,-30130.27632942106
+175,Stockholm,Sundbyberg,-785.4420486058733
+176,Stockholm,Taeby,-10485.824273245076
+177,Stockholm,Tyresoe,-31167.476241037453
+178,Stockholm,Upplands-bro,-31624.023814795135
+179,Stockholm,Upplands-vaesby,-12541.327493289842
+180,Stockholm,Vallentuna,-79254.61250491373
+181,Stockholm,Vaermdoe,-151871.0868106494
+182,Stockholm,Vaxholm,-17930.782641066206
+183,Uppsala,Aelvkarleby,-17937.000358214424
+184,Uppsala,Enkoeping,-22249.74153691909
+185,Uppsala,Haabo,-10796.527502222505
+186,Uppsala,Knivsta,-11595.917151528087
+187,Uppsala,Oesthammar,-163015.9399603859
+188,Uppsala,Tierp,-220596.93172528426
+189,Uppsala,Uppsala,-169826.9991570026
+190,Vaermland,Aarjaeng,-321780.1955090525
+191,Vaermland,Arvika,-382006.77501049865
+192,Vaermland,Eda,-204292.511492461
+193,Vaermland,Filipstad,-167146.35865905642
+194,Vaermland,Forshaga,-40796.31189345696
+195,Vaermland,Grums,-66296.36620097134
+196,Vaermland,Hagfors,-202297.25595671826
+197,Vaermland,Hammaroe,-14547.484714770879
+198,Vaermland,Karlstad,-146679.09477153025
+199,Vaermland,Kil,-55221.4867336503
+200,Vaermland,Kristinehamn,-103209.03603046136
+201,Vaermland,Munkfors,-18781.528681451335
+202,Vaermland,Saeffle,-280419.6660226209
+203,Vaermland,Storfors,-39570.86562595979
+204,Vaermland,Sunne,-159461.68424205054
+205,Vaermland,Torsby,-1032174.6325762204
+206,Vaesterbotten,Aasele,-826551.6921406001
+207,Vaesterbotten,Bjurholm,-240829.57183306583
+208,Vaesterbotten,Dorotea,-789715.2666510008
+209,Vaesterbotten,Lycksele,-1073099.6505318817
+210,Vaesterbotten,Malaa,-410505.8019709681
+211,Vaesterbotten,Nordmaling,-341742.4982680158
+212,Vaesterbotten,Norsjoe,-337919.85034598183
+213,Vaesterbotten,Robertsfors,-183942.7976097842
+214,Vaesterbotten,Skellefteaa,-1070248.699150108
+215,Vaesterbotten,Sorsele,-1805900.5161812126
+216,Vaesterbotten,Storuman,-1763670.4077388453
+217,Vaesterbotten,Umeaa,-306161.5968498024
+218,Vaesterbotten,Vaennaes,-99596.52515391148
+219,Vaesterbotten,Vilhelmina,-2002830.0772579832
+220,Vaesterbotten,Vindeln,-380008.33023725054
+221,Vaesternorrland,Aange,-431696.7162088795
+222,Vaesternorrland,Haernoesand,-291773.30493029946
+223,Vaesternorrland,Kramfors,-396557.0137103854
+224,Vaesternorrland,Oernskoeldsvik,-1247031.150312693
+225,Vaesternorrland,Sollefteaa,-846820.4157494465
+226,Vaesternorrland,Sundsvall,-498447.579324607
+227,Vaesternorrland,Timraa,-195204.3080680206
+228,Vaestmanland,Arboga,-22190.73246062389
+229,Vaestmanland,Fagersta,-32416.81078460033
+230,Vaestmanland,Hallstahammar,-2622.7579942433103
+231,Vaestmanland,Heby,-73727.68022757042
+232,Vaestmanland,Koeping,-19024.38028919554
+233,Vaestmanland,Kungsoer,-18164.91491288202
+234,Vaestmanland,Norberg,-47220.24407336504
+235,Vaestmanland,Sala,10625.704198977135
+236,Vaestmanland,Skinnskatteberg,-20139.86354563065
+237,Vaestmanland,Surahammar,-9555.338032837579
+238,Vaestmanland,Vaesteraas,-3485.8602956959985
+239,Vaestra goetaland,Ale,-91310.9615161953
+240,Vaestra goetaland,Alingsaas,-97045.90159225662
+241,Vaestra goetaland,Aamaal,-117051.9371026228
+242,Vaestra goetaland,Bengtsfors,-245716.93478093573
+243,Vaestra goetaland,Bollebygd,-62374.00948318511
+244,Vaestra goetaland,Boraas,-235654.4696344151
+245,Vaestra goetaland,Dals-ed,-189364.42405763446
+246,Vaestra goetaland,Essunga,-26564.578853530133
+247,Vaestra goetaland,Falkoeping,-148391.88722958087
+248,Vaestra goetaland,Faergelanda,-132471.0329734373
+249,Vaestra goetaland,Goeteborg,-125005.09169124812
+250,Vaestra goetaland,Goetene,-54849.77030491568
+251,Vaestra goetaland,Graestorp,-26295.940544404635
+252,Vaestra goetaland,Gullspaang,-47792.40216541733
+253,Vaestra goetaland,Habo,-44947.99745853243
+254,Vaestra goetaland,Haerryda,-72384.8205571119
+255,Vaestra goetaland,Herrljunga,-70808.63177176294
+256,Vaestra goetaland,Hjo,-38679.15973742647
+257,Vaestra goetaland,Karlsborg,-89591.73283795465
+258,Vaestra goetaland,Kungaelv,-102403.21485967663
+259,Vaestra goetaland,Lerum,-81920.83217312244
+260,Vaestra goetaland,Lidkoeping,-68084.23702231428
+261,Vaestra goetaland,Lilla edet,-75775.13475639294
+262,Vaestra goetaland,Lysekil,-51014.10734281177
+263,Vaestra goetaland,Mariestad,-83792.74964593575
+264,Vaestra goetaland,Mark,-207228.1089419228
+265,Vaestra goetaland,Mellerud,-85379.12907310347
+266,Vaestra goetaland,Moelndal,-50024.62407252992
+267,Vaestra goetaland,Mullsjoe,-23783.208770304365
+268,Vaestra goetaland,Munkedal,-171474.4124831272
+269,Vaestra goetaland,Oeckeroe,-2243.3622761096326
+270,Vaestra goetaland,Orust,-112680.49812164929
+271,Vaestra goetaland,Partille,-26126.99169743218
+272,Vaestra goetaland,Skara,-64169.35167324832
+273,Vaestra goetaland,Skoevde,-111188.94627508287
+274,Vaestra goetaland,Sotenaes,-28387.820793222818
+275,Vaestra goetaland,Stenungsund,-84028.03550207413
+276,Vaestra goetaland,Stroemstad,-103518.19640219295
+277,Vaestra goetaland,Svenljunga,-197354.5234867081
+278,Vaestra goetaland,Tanum,-243964.02724568808
+279,Vaestra goetaland,Tibro,-35819.423081552224
+280,Vaestra goetaland,Tidaholm,-34857.73499230085
+281,Vaestra goetaland,Tjoern,-42011.42363299266
+282,Vaestra goetaland,Toereboda,-81165.5539120336
+283,Vaestra goetaland,Tranemo,-152977.2214051232
+284,Vaestra goetaland,Trollhaettan,-71576.1435272015
+285,Vaestra goetaland,Uddevalla,-168540.06666417373
+286,Vaestra goetaland,Ulricehamn,-217613.84745463452
+287,Vaestra goetaland,Vaenersborg,-125979.62021780635
+288,Vaestra goetaland,Vara,-35133.343672311225
+289,Vaestra goetaland,Vaargaarda,-63543.91674493929
