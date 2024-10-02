@@ -19,14 +19,13 @@ def main():
     dfs = dp.pull_all()
     # dfs = vd.load_data()
     # print(len(dfs))
-    # fin_cities_df, fin_regions_df, fin_city_predictions, fin_region_predictions, swe_city_predictions, agriculture_fin_df, air_passenger_and_cargo_transport_fin_df, supplementary_data_fin_df, energy_consumption_and_population_fin_df, energy_agric_fin_df, transportation_fin_df, swe_cities_df, swe_regions_df, avg_co2_consumption_df, final_tree_info_df, partial_tree_info_df, = dfs
-    fin_cities_df, fin_regions_df, agriculture_fin_df, air_passenger_and_cargo_transport_fin_df, supplementary_data_fin_df, energy_consumption_and_population_fin_df, energy_agric_fin_df, transportation_fin_df, swe_cities_df, swe_regions_df, avg_co2_consumption_df, final_tree_info_df, partial_tree_info_df, = dfs
+    fin_cities_df, fin_cities_with_net, fin_regions_df, agriculture_fin_df, air_passenger_and_cargo_transport_fin_df, supplementary_data_fin_df, energy_consumption_and_population_fin_df, energy_agric_fin_df, transportation_fin_df, swe_cities_df, swe_cities_with_net, swe_regions_df, avg_co2_consumption_df, final_tree_info_df, partial_tree_info_df, = dfs
     # Modify dfs
     final_tree_info_df.drop(columns=['Maintenance'], inplace=True)
     final_tree_info_df.rename(
         columns={'Average_heigh_range_m': 'Average Height (m)'})
 
-    combine_list = [fin_cities_df, swe_cities_df]
+    combine_list = [fin_cities_with_net, swe_cities_with_net]
     combined_cities_df = pd.concat(combine_list)
 
     # Define the layout and style of the app
@@ -143,9 +142,13 @@ def main():
 
             predicted_df = dp.pull_predictions(input_value)
 
+            # print(tc.calc_trees(
+            #     combined_cities_df, final_tree_info_df, predicted_df, str(selected_year), input_value))
+            
             # Filter data based on user input for tree recommendations chart
             filtered_rec_data = tc.calc_trees(
                 combined_cities_df, final_tree_info_df, predicted_df, str(selected_year), input_value)
+
             # print(combined_cities_df)
 
             # Tree recommendations

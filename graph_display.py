@@ -71,9 +71,8 @@ def pie(df, fig):
 
 
 def line(df, input_value, fig):
-    print(f'input_value {input_value}')
+
     input_value_spec_rm = dh.replace_special_chars(input_value)
-    print(f'input_value_spec_rm {input_value_spec_rm}')
 
     df_before_2022 = df[df['Year'] <= 2022]
     df_after_2022 = df[df['Year'] >= 2022]
@@ -176,6 +175,15 @@ def tree_rec(df, input_value, fig):
         textposition='inside',
         insidetextanchor='middle',
         marker_color='#8eb892'  # 5d8e62
+    ))
+    fig.add_trace(go.Bar(
+        x=df["Tree"],
+        y=df['Recommended Tree Amount with Net Offset'],
+        name='Recommended Tree Amount with Net Offset',
+        text=df['Recommended Tree Amount with Net Offset'],
+        textposition='inside',
+        insidetextanchor='middle',
+        marker_color='#5d8e62'  # 5d8e62
     ))
     fig.update_layout(
         title=f'Tree Amount Needed to Offset Emissions for Predicted Year by Species for {

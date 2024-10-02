@@ -12,7 +12,7 @@ Dalarna,Gagnef,-80392.01824136719
 Dalarna,Hedemora,-29822.111946413243
 Dalarna,Leksand,-166934.94019876418
 Dalarna,Ludvika,-232030.3401789654
-Dalarna,Malung,-869334.8243907915
+Dalarna,Malung-Saelen,-869334.8243907915
 Dalarna,Mora,-458661.78659587866
 Dalarna,Orsa,-347367.00722009665
 Dalarna,Raettvik,-200658.80708653855
@@ -135,7 +135,7 @@ Skaane,Lund,-49127.24767955512
 Skaane,Malmoe,-3478.206485778783
 Skaane,Oerkelljunga,-31628.0594673262
 Skaane,Osby,-70330.17519226685
-Skaane,Oestra goeinge,-42123.805506245546
+Skaane,Oestra Goeinge,-42123.805506245546
 Skaane,Perstorp,-23117.1182335055
 Skaane,Simrishamn,-41691.681710294935
 Skaane,Sjoebo,-56633.96197774077
@@ -177,8 +177,8 @@ Stockholm,Stockholm,-30130.27632942106
 Stockholm,Sundbyberg,-785.4420486058733
 Stockholm,Taeby,-10485.824273245076
 Stockholm,Tyresoe,-31167.476241037453
-Stockholm,Upplands-bro,-31624.023814795135
-Stockholm,Upplands-vaesby,-12541.327493289842
+Stockholm,Upplands-Bro,-31624.023814795135
+Stockholm,Upplands Vaesby,-12541.327493289842
 Stockholm,Vallentuna,-79254.61250491373
 Stockholm,Vaermdoe,-151871.0868106494
 Stockholm,Vaxholm,-17930.782641066206
@@ -238,54 +238,54 @@ Vaestmanland,Sala,10625.704198977135
 Vaestmanland,Skinnskatteberg,-20139.86354563065
 Vaestmanland,Surahammar,-9555.338032837579
 Vaestmanland,Vaesteraas,-3485.8602956959985
-Vaestra goetaland,Ale,-91310.9615161953
-Vaestra goetaland,Alingsaas,-97045.90159225662
-Vaestra goetaland,Aamaal,-117051.9371026228
-Vaestra goetaland,Bengtsfors,-245716.93478093573
-Vaestra goetaland,Bollebygd,-62374.00948318511
-Vaestra goetaland,Boraas,-235654.4696344151
-Vaestra goetaland,Dals-ed,-189364.42405763446
-Vaestra goetaland,Essunga,-26564.578853530133
-Vaestra goetaland,Falkoeping,-148391.88722958087
-Vaestra goetaland,Faergelanda,-132471.0329734373
-Vaestra goetaland,Goeteborg,-125005.09169124812
-Vaestra goetaland,Goetene,-54849.77030491568
-Vaestra goetaland,Graestorp,-26295.940544404635
-Vaestra goetaland,Gullspaang,-47792.40216541733
-Vaestra goetaland,Habo,-44947.99745853243
-Vaestra goetaland,Haerryda,-72384.8205571119
-Vaestra goetaland,Herrljunga,-70808.63177176294
-Vaestra goetaland,Hjo,-38679.15973742647
-Vaestra goetaland,Karlsborg,-89591.73283795465
-Vaestra goetaland,Kungaelv,-102403.21485967663
-Vaestra goetaland,Lerum,-81920.83217312244
-Vaestra goetaland,Lidkoeping,-68084.23702231428
-Vaestra goetaland,Lilla edet,-75775.13475639294
-Vaestra goetaland,Lysekil,-51014.10734281177
-Vaestra goetaland,Mariestad,-83792.74964593575
-Vaestra goetaland,Mark,-207228.1089419228
-Vaestra goetaland,Mellerud,-85379.12907310347
-Vaestra goetaland,Moelndal,-50024.62407252992
-Vaestra goetaland,Mullsjoe,-23783.208770304365
-Vaestra goetaland,Munkedal,-171474.4124831272
-Vaestra goetaland,Oeckeroe,-2243.3622761096326
-Vaestra goetaland,Orust,-112680.49812164929
-Vaestra goetaland,Partille,-26126.99169743218
-Vaestra goetaland,Skara,-64169.35167324832
-Vaestra goetaland,Skoevde,-111188.94627508287
-Vaestra goetaland,Sotenaes,-28387.820793222818
-Vaestra goetaland,Stenungsund,-84028.03550207413
-Vaestra goetaland,Stroemstad,-103518.19640219295
-Vaestra goetaland,Svenljunga,-197354.5234867081
-Vaestra goetaland,Tanum,-243964.02724568808
-Vaestra goetaland,Tibro,-35819.423081552224
-Vaestra goetaland,Tidaholm,-34857.73499230085
-Vaestra goetaland,Tjoern,-42011.42363299266
-Vaestra goetaland,Toereboda,-81165.5539120336
-Vaestra goetaland,Tranemo,-152977.2214051232
-Vaestra goetaland,Trollhaettan,-71576.1435272015
-Vaestra goetaland,Uddevalla,-168540.06666417373
-Vaestra goetaland,Ulricehamn,-217613.84745463452
-Vaestra goetaland,Vaenersborg,-125979.62021780635
-Vaestra goetaland,Vara,-35133.343672311225
-Vaestra goetaland,Vaargaarda,-63543.91674493929
+Vaestra Goetaland,Ale,-91310.9615161953
+Vaestra Goetaland,Alingsaas,-97045.90159225662
+Vaestra Goetaland,Aamaal,-117051.9371026228
+Vaestra Goetaland,Bengtsfors,-245716.93478093573
+Vaestra Goetaland,Bollebygd,-62374.00948318511
+Vaestra Goetaland,Boraas,-235654.4696344151
+Vaestra Goetaland,Dals-Ed,-189364.42405763446
+Vaestra Goetaland,Essunga,-26564.578853530133
+Vaestra Goetaland,Falkoeping,-148391.88722958087
+Vaestra Goetaland,Faergelanda,-132471.0329734373
+Vaestra Goetaland,Goeteborg,-125005.09169124812
+Vaestra Goetaland,Goetene,-54849.77030491568
+Vaestra Goetaland,Graestorp,-26295.940544404635
+Vaestra Goetaland,Gullspaang,-47792.40216541733
+Vaestra Goetaland,Habo,-44947.99745853243
+Vaestra Goetaland,Haerryda,-72384.8205571119
+Vaestra Goetaland,Herrljunga,-70808.63177176294
+Vaestra Goetaland,Hjo,-38679.15973742647
+Vaestra Goetaland,Karlsborg,-89591.73283795465
+Vaestra Goetaland,Kungaelv,-102403.21485967663
+Vaestra Goetaland,Lerum,-81920.83217312244
+Vaestra Goetaland,Lidkoeping,-68084.23702231428
+Vaestra Goetaland,Lilla Edet,-75775.13475639294
+Vaestra Goetaland,Lysekil,-51014.10734281177
+Vaestra Goetaland,Mariestad,-83792.74964593575
+Vaestra Goetaland,Mark,-207228.1089419228
+Vaestra Goetaland,Mellerud,-85379.12907310347
+Vaestra Goetaland,Moelndal,-50024.62407252992
+Vaestra Goetaland,Mullsjoe,-23783.208770304365
+Vaestra Goetaland,Munkedal,-171474.4124831272
+Vaestra Goetaland,Oeckeroe,-2243.3622761096326
+Vaestra Goetaland,Orust,-112680.49812164929
+Vaestra Goetaland,Partille,-26126.99169743218
+Vaestra Goetaland,Skara,-64169.35167324832
+Vaestra Goetaland,Skoevde,-111188.94627508287
+Vaestra Goetaland,Sotenaes,-28387.820793222818
+Vaestra Goetaland,Stenungsund,-84028.03550207413
+Vaestra Goetaland,Stroemstad,-103518.19640219295
+Vaestra Goetaland,Svenljunga,-197354.5234867081
+Vaestra Goetaland,Tanum,-243964.02724568808
+Vaestra Goetaland,Tibro,-35819.423081552224
+Vaestra Goetaland,Tidaholm,-34857.73499230085
+Vaestra Goetaland,Tjoern,-42011.42363299266
+Vaestra Goetaland,Toereboda,-81165.5539120336
+Vaestra Goetaland,Tranemo,-152977.2214051232
+Vaestra Goetaland,Trollhaettan,-71576.1435272015
+Vaestra Goetaland,Uddevalla,-168540.06666417373
+Vaestra Goetaland,Ulricehamn,-217613.84745463452
+Vaestra Goetaland,Vaenersborg,-125979.62021780635
+Vaestra Goetaland,Vara,-35133.343672311225
+Vaestra Goetaland,Vaargaarda,-63543.91674493929

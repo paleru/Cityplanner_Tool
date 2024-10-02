@@ -12,7 +12,7 @@ region_id,city_id,region_name,city_name,net_forest_emissions_01_to_23
 2,6,Dalarna,Hedemora,-685908.5747675046
 2,7,Dalarna,Leksand,-3839503.6245715762
 2,8,Dalarna,Ludvika,-5336697.824116204
-2,9,Dalarna,Malung,-19994700.960988205
+2,9,Dalarna,Malung-Saelen,-19994700.960988205
 2,10,Dalarna,Mora,-10549221.091705207
 2,11,Dalarna,Orsa,-7989441.166062223
 2,12,Dalarna,Rättvik,-4615152.562990387
@@ -178,7 +178,7 @@ region_id,city_id,region_name,city_name,net_forest_emissions_01_to_23
 15,20,Stockholm,Täby,-241173.95828463673
 15,21,Stockholm,Tyresö,-716851.9535438614
 15,22,Stockholm,Upplands-Bro,-727352.5477402881
-15,23,Stockholm,Upplands-Väsby,-288450.5323456664
+15,23,Stockholm,Upplands Vaesby,-288450.5323456664
 15,24,Stockholm,Vallentuna,-1822856.0876130161
 15,25,Stockholm,Värmdö,-3493034.996644936
 15,26,Stockholm,Vaxholm,-412408.0007445227
